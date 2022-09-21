@@ -1,0 +1,15 @@
+D:\Skilvul - Game Developer\C#\Game Tic Tac Toe\bin\Debug\net6.0\Game Tic Tac Toe.exe
+D:\Skilvul - Game Developer\C#\Game Tic Tac Toe\bin\Debug\net6.0\Game Tic Tac Toe.deps.json
+D:\Skilvul - Game Developer\C#\Game Tic Tac Toe\bin\Debug\net6.0\Game Tic Tac Toe.runtimeconfig.json
+D:\Skilvul - Game Developer\C#\Game Tic Tac Toe\bin\Debug\net6.0\Game Tic Tac Toe.dll
+D:\Skilvul - Game Developer\C#\Game Tic Tac Toe\bin\Debug\net6.0\Game Tic Tac Toe.pdb
+D:\Skilvul - Game Developer\C#\Game Tic Tac Toe\obj\Debug\net6.0\Game Tic Tac Toe.csproj.AssemblyReference.cache
+D:\Skilvul - Game Developer\C#\Game Tic Tac Toe\obj\Debug\net6.0\Game Tic Tac Toe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Skilvul - Game Developer\C#\Game Tic Tac Toe\obj\Debug\net6.0\Game Tic Tac Toe.AssemblyInfoInputs.cache
+D:\Skilvul - Game Developer\C#\Game Tic Tac Toe\obj\Debug\net6.0\Game Tic Tac Toe.AssemblyInfo.cs
+D:\Skilvul - Game Developer\C#\Game Tic Tac Toe\obj\Debug\net6.0\Game Tic Tac Toe.csproj.CoreCompileInputs.cache
+D:\Skilvul - Game Developer\C#\Game Tic Tac Toe\obj\Debug\net6.0\Game Tic Tac Toe.dll
+D:\Skilvul - Game Developer\C#\Game Tic Tac Toe\obj\Debug\net6.0\refint\Game Tic Tac Toe.dll
+D:\Skilvul - Game Developer\C#\Game Tic Tac Toe\obj\Debug\net6.0\Game Tic Tac Toe.pdb
+D:\Skilvul - Game Developer\C#\Game Tic Tac Toe\obj\Debug\net6.0\Game Tic Tac Toe.genruntimeconfig.cache
+D:\Skilvul - Game Developer\C#\Game Tic Tac Toe\obj\Debug\net6.0\ref\Game Tic Tac Toe.dll
